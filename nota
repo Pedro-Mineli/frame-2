@@ -5,3 +5,6 @@ npm run dev
 
 PORQUE -Y?
 porque aceita todas as configurações da maquina 
+
+npm create-next-app 
+porque colocar ponto? considera que o projeto é oq esta salvo
